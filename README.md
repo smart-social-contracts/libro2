@@ -1,11 +1,23 @@
 # libro2
 
 Este proyecto es un libro narrado a través de diálogos con personajes históricos, literarios y alegóricos.  
-Cada personaje tiene su propia carpeta con tres archivos de texto:
+Cada personaje tiene su propia carpeta con los siguientes archivos:
 
-- intro.txt        → Introducción del personaje. Quién es, su trasfondo y por qué es importante.  
-- conversation.txt → Un diálogo ficticio entre el autor (Jose) y el personaje. El diálogo debe ser profundo, atractivo y reflejar tanto la visión del personaje como las ideas del autor sobre la gobernanza, la tecnología o la sociedad.  
-- farewell.txt     → Un breve cierre donde el personaje se despide. El tono debe ser coherente con su personalidad.  
+
+## Archivos MD
+
+Los archivos MD contienen el contenido del libro en formato markdown.
+
+- intro.md        → Introducción del personaje. Quién es, su trasfondo y por qué es importante.  
+- conversation.md → Un diálogo ficticio entre el autor (Jose) y el personaje. El diálogo debe ser profundo, atractivo y reflejar tanto la visión del personaje como las ideas del autor sobre la gobernanza, la tecnología o la sociedad.  
+- farewell.md     → Un breve cierre donde el personaje se despide. El tono debe ser coherente con su personalidad.  
+
+## Archivos TXT
+
+Los archivos TXT contienen las instrucciones para generar los archivos MD. Estos archivos no forman parte del libro, sino que son útiles para generar los archivos MD.
+
+- preguntas.txt    → Preguntas que el autor le hace al personaje o viceversa.
+
 
 ## Lista de temas para los dialogso
 
@@ -18,9 +30,9 @@ Preguntas existenciales / universales
 
 ¿Crees que la consciencia tiene un propósito en el universo?
 
-¿Cómo entiendes la relación entre vida, entropía y orden?
 
-¿Qué opinas de la idea de que estamos aquí para retrasar la muerte térmica del universo?
+
+
 
 Preguntas sobre poder y gobernanza
 
